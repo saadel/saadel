@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm a senior Software Engineer with 10 years of experience building software at scale across different industries.
+I'm a Senior Software Engineer with 10 years of experience building software at scale across different industries.
 
 - 🛠️ Full-stack with **TypeScript, React and Node.js**, plus **Java and Scala** on the backend
 - ☁️ Background in distributed systems, cloud infrastructure and enterprise integrations
